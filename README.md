@@ -8,7 +8,7 @@ To run all notebooks interactively with MyBinder, click here (and wait for a few
 
 or use Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/dm4dh-2023/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/0_main.ipynb)
 
 
 You might want to [install Jupyter](https://jupyter.org/) on your local machine as a more reliable option.
