@@ -4,7 +4,7 @@ This repository contains the code to reproduce figures, metrics, and models for 
 
 To run all notebooks interactively with MyBinder, click here (and wait for a few seconds):
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPI-CH/DS4W-2024/main)
 
 You might want to [install Jupyter](https://jupyter.org/) on your local machine as a more reliable option.
 
