@@ -6,13 +6,8 @@ To run all notebooks interactively with MyBinder, click here (and wait for a few
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPI-CH/DS4W-2024/main)
 
-or use Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/0_main.ipynb)
-
-
 You might want to [install Jupyter](https://jupyter.org/) on your local machine as a more reliable option.
 
 ## Contents:
 
-* [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/1_Classification_ML.ipynb)
+1. Time-Series Classification - Machine Learning [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/1_Classification_ML.ipynb)
