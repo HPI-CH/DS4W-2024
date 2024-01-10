@@ -1,0 +1,16 @@
+
+# Core data science libraries
+numpy
+pandas
+scikit-learn
+
+# Visualization libraries
+matplotlib
+seaborn
+
+# Deep learning
+tensorflow
+
+# Additional useful libraries
+scipy
+jupyter
