@@ -15,4 +15,4 @@ You might want to [install Jupyter](https://jupyter.org/) on your local machine 
 
 ## Contents:
 
-* [Introduction to Machine Learning](1_ML_Intro.ipynb)
+* [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/1_Classification_ML.ipynb)
