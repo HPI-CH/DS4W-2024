@@ -4,7 +4,12 @@ This repository contains the code to reproduce figures, metrics, and models for 
 
 To run all notebooks interactively with MyBinder, click here (and wait for a few seconds):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPI-CH/DS4W-2024/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPI-CH/DS4W-2024/main);
+
+or use Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/dm4dh-2023/blob/main/main.ipynb)
+
 
 You might want to [install Jupyter](https://jupyter.org/) on your local machine as a more reliable option.
 
