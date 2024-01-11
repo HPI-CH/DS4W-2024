@@ -11,3 +11,4 @@ You might want to [install Jupyter](https://jupyter.org/) on your local machine 
 ## Contents:
 
 1. Time-Series Classification - Machine Learning [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/1_Classification_ML.ipynb)
+2. Time-Series Clustering for Anomaly Detection [![Open Notebook Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/3_Unsupervised_Learning.ipynb)
