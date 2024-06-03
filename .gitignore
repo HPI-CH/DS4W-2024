@@ -7,6 +7,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Folder
+All Notebooks/
+Datasets/
+Exercise/
+HAR_feature_engineering_notebooks/
+Lecture Slides/
+
 # Distribution / packaging
 .Python
 env/
