@@ -11,3 +11,4 @@ You might want to [install Jupyter](https://jupyter.org/) on your local machine 
 ## Contents:
 
 1. Introduction to Python [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/01_Intro_Python.ipynb)
+1. Introduction to Supervised Machine Learning [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/02_Intro_Machine_Learning.ipynb)
