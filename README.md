@@ -10,6 +10,7 @@ You might want to [install Jupyter](https://jupyter.org/) on your local machine 
 
 ## Contents:
 
-1. Introduction to Python [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/01_Intro_Python.ipynb)
+1. Introduction to Python [![Open Notebook Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/01_Intro_Python.ipynb)
 2. Introduction to Supervised Machine Learning [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/02_Intro_Machine_Learning.ipynb)
-3. Introduction to Deep Learning [![Open Notebook ML Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/03_Intro_DL_Tensorflow.ipynb)
+3. Introduction to Deep Learning [![Open Notebook DL](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/03_Intro_DL_Tensorflow.ipynb)
+4. Introduction to Unsupervised Learning [![Open Notebook Unsupervised Learning](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HPI-CH/DS4W-2024/blob/main/04_Intro_Unsupervised_Learning.ipynb)
